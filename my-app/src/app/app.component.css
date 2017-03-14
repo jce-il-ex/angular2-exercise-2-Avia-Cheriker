@@ -1,0 +1,9 @@
+#main_title:hover 
+{
+    color: darkred;  
+}
+
+#main_title
+{
+  text-align: center;
+}
